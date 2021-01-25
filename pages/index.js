@@ -1,6 +1,6 @@
 function Home() {
     return <div>
-        <h1>Home A</h1>
+        <h1>Home V2</h1>
         <p>First change </p>
     </div>
 }
